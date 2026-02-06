@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Editor
+.vscode/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Secrets
+.env
+
+# Editor
+.vscode/
